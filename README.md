@@ -8,8 +8,12 @@ precisar subir para a Play Store ou App Store.
 
 ## Tecnologias usada no projeto
 [Axios](https://axios-http.com/docs/intro)
+
 [React](https://pt-br.reactjs.org/)
+
 [Styled Components](https://styled-components.com/)
+
 [Material-UI](https://expressjs.com/pt-br/)
+
 
 Projeto sob supervisão do Bruno Carneiro na Digital Innovation One.
